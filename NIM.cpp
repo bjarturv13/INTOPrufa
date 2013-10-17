@@ -54,6 +54,8 @@ int main( )
 		}
 	}
 	while ( val != 3 );
+	
+	cout << "Bjartur Vidarsson" << endl;
 
 	return 0;
 }
